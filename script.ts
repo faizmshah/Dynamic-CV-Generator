@@ -118,7 +118,7 @@ if (cvForm) {
 }
 
 if (resumeTemplate) {
-  resumeTemplate.style.display = 'block';
+  resumeTemplate.style.display = 'grid';
 }
 
 }
