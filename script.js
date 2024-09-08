@@ -89,7 +89,7 @@ function generateCV() {
         cvForm.style.display = 'none';
     }
     if (resumeTemplate) {
-        resumeTemplate.style.display = 'block';
+        resumeTemplate.style.display = 'grid';
     }
 }
 // Function to print the CV
